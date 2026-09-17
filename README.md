@@ -1,22 +1,20 @@
 ![Banner](https://github.com/rohan-bhautoo/rohan-bhautoo/assets/47154593/3eba57a0-cca0-4b2f-8112-a8ce950cee3a)
 
-[![BuyMeACoffee](https://img.shields.io/badge/Support_❤️-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohanbhautoo)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/x_xrohanx_x/)
-[![PlayStation Network](https://img.shields.io/badge/PlayStation_Network-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://profile.playstation.com/x_XRohanX_x)
 
 <div>
   <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
   <p>𝘏𝘪 𝘵𝘩𝘦𝘳𝘦! 𝘐'𝘮 𝘙𝘰𝘩𝘢𝘯, 𝘢 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘨𝘢𝘮𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘸𝘪𝘵𝘩 𝘢 𝘭𝘰𝘷𝘦 𝘧𝘰𝘳 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘪𝘮𝘮𝘦𝘳𝘴𝘪𝘷𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴. 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘪𝘯𝘨 𝘨𝘢𝘮𝘦𝘴 𝘶𝘴𝘪𝘯𝘨 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦 𝘵𝘰 𝘣𝘳𝘪𝘯𝘨 𝘪𝘥𝘦𝘢𝘴 𝘵𝘰 𝘭𝘪𝘧𝘦. 𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘱𝘭𝘢𝘺 𝘢𝘯𝘥 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘢 𝘸𝘪𝘥𝘦 𝘳𝘢𝘯𝘨𝘦 𝘰𝘧 𝘥𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵 𝘵𝘪𝘵𝘭𝘦𝘴 𝘸𝘩𝘪𝘤𝘩 𝘤𝘢𝘯 𝘣𝘳𝘪𝘯𝘨 𝘪𝘯𝘴𝘱𝘪𝘳𝘢𝘵𝘪𝘰𝘯 𝘸𝘩𝘦𝘯 𝘥𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨 𝘯𝘦𝘸 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴. 𝘈𝘵 𝘵𝘩𝘦 𝘌𝘖𝘋, 𝘸𝘩𝘢𝘵 𝘮𝘢𝘵𝘵𝘦𝘳𝘴 𝘪𝘴 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘪𝘴 𝘧𝘶𝘯 𝘵𝘰 𝘱𝘭𝘢𝘺!</p>
-
-  <p>𝘞𝘢𝘯𝘵 𝘵𝘰 𝘨𝘦𝘵 𝘪𝘯 𝘵𝘰𝘶𝘤𝘩? 𝘙𝘦𝘢𝘤𝘩 𝘮𝘦 𝘰𝘯 𝘋𝘪𝘴𝘤𝘰𝘳𝘥.</p>
 
   <p>𝘊𝘩𝘦𝘤𝘬 𝘰𝘶𝘵 𝘴𝘰𝘮𝘦 𝘰𝘧 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘣𝘦𝘭𝘰𝘸 𝘢𝘯𝘥 𝘴𝘵𝘢𝘺 𝘵𝘶𝘯𝘦𝘥 𝘧𝘰𝘳 𝘮𝘰𝘳𝘦 𝘶𝘱𝘥𝘢𝘵𝘦𝘴!</p>
 </div>
 
 <div>
   <h2 align="center">𝓕𝓪𝓿𝓸𝓻𝓲𝓽𝓮 𝓖𝓪𝓶𝓮𝓼</h2>
-  <img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/f7e96b5c-b5d5-4980-b78b-a247fddb3066" width="100%">
+  <img src="https://github.com/user-attachments/assets/74343f62-0b99-46ed-bb32-d5fe75637f2d" width="100%" alt="Favorite Games">
 </div>
+
+
 
 <div>
   <h2 align="center">𝓢𝓴𝓲𝓵𝓵𝓼</h2>
