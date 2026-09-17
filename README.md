@@ -1,12 +1,18 @@
 ![Banner](https://github.com/rohan-bhautoo/rohan-bhautoo/assets/47154593/3eba57a0-cca0-4b2f-8112-a8ce950cee3a)
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/x_xrohanx_x/)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://rohan-bhautoo.itch.io/)
 
 <div>
   <h2 align="center">𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
-  <p>𝘏𝘪 𝘵𝘩𝘦𝘳𝘦! 𝘐'𝘮 𝘙𝘰𝘩𝘢𝘯, 𝘢 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘨𝘢𝘮𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘸𝘪𝘵𝘩 𝘢 𝘭𝘰𝘷𝘦 𝘧𝘰𝘳 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘪𝘮𝘮𝘦𝘳𝘴𝘪𝘷𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴. 𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘪𝘯𝘨 𝘨𝘢𝘮𝘦𝘴 𝘶𝘴𝘪𝘯𝘨 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦 𝘵𝘰 𝘣𝘳𝘪𝘯𝘨 𝘪𝘥𝘦𝘢𝘴 𝘵𝘰 𝘭𝘪𝘧𝘦. 𝘐𝘯 𝘮𝘺 𝘧𝘳𝘦𝘦 𝘵𝘪𝘮𝘦, 𝘐 𝘱𝘭𝘢𝘺 𝘢𝘯𝘥 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘢 𝘸𝘪𝘥𝘦 𝘳𝘢𝘯𝘨𝘦 𝘰𝘧 𝘥𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵 𝘵𝘪𝘵𝘭𝘦𝘴 𝘸𝘩𝘪𝘤𝘩 𝘤𝘢𝘯 𝘣𝘳𝘪𝘯𝘨 𝘪𝘯𝘴𝘱𝘪𝘳𝘢𝘵𝘪𝘰𝘯 𝘸𝘩𝘦𝘯 𝘥𝘦𝘴𝘪𝘨𝘯𝘪𝘯𝘨 𝘯𝘦𝘸 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴. 𝘈𝘵 𝘵𝘩𝘦 𝘌𝘖𝘋, 𝘸𝘩𝘢𝘵 𝘮𝘢𝘵𝘵𝘦𝘳𝘴 𝘪𝘴 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘪𝘴 𝘧𝘶𝘯 𝘵𝘰 𝘱𝘭𝘢𝘺!</p>
+  <p>Hi, I'm Rohan. I build games in Unreal Engine 5 as a solo developer, working in Blueprint and C++. The only thing that matters to me at the end of the day is that the game is fun to play.</p>
 
-  <p>𝘊𝘩𝘦𝘤𝘬 𝘰𝘶𝘵 𝘴𝘰𝘮𝘦 𝘰𝘧 𝘮𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘣𝘦𝘭𝘰𝘸 𝘢𝘯𝘥 𝘴𝘵𝘢𝘺 𝘵𝘶𝘯𝘦𝘥 𝘧𝘰𝘳 𝘮𝘰𝘳𝘦 𝘶𝘱𝘥𝘢𝘵𝘦𝘴!</p>
+  <p>I play a wide range of titles, and a lot of what I learn about pacing, feel and level design comes from taking them apart. Some of them are below.</p>
+</div>
+
+<div>
+  <h2 align="center">𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰</h2>
+  <p>A top-down twin-stick shooter set in a dark cyberpunk future. Solo project in Unreal Engine 5, Blueprint-first with C++ where it earns its place. Still early; more here once there is something worth showing.</p>
 </div>
 
 <div>
@@ -14,22 +20,22 @@
   <img src="https://github.com/user-attachments/assets/74343f62-0b99-46ed-bb32-d5fe75637f2d" width="100%" alt="Favorite Games">
 </div>
 
-
-
 <div>
   <h2 align="center">𝓢𝓴𝓲𝓵𝓵𝓼</h2>
   <p>
   <div align="center">
+    <!-- TODO: swap for a clip of your own project. The previous image was Epic's UE5 demo footage. -->
     <img src="https://github.com/rohan-bhautoo/GameDev/assets/47154593/3595cde5-9ef4-4481-86eb-1fc6510f6a0b" align="right" width="50%">
   </div>
   <div>
     <br>
     <p align="center">
-      <img src="https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+      <img src="https://img.shields.io/badge/blueprints-%230E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
       <br><br>
-      𝘐'𝘮 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘥 𝘪𝘯 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘳𝘦𝘢𝘭𝘪𝘴𝘵𝘪𝘤 𝘦𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵𝘴, 𝘪𝘯𝘵𝘦𝘳𝘢𝘤𝘵𝘪𝘷𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦𝘴 𝘢𝘯𝘥 𝘶𝘴𝘪𝘯𝘨 𝘉𝘭𝘶𝘦𝘱𝘳𝘪𝘯𝘵𝘴 𝘧𝘰𝘳 𝘷𝘪𝘴𝘶𝘢𝘭 𝘴𝘤𝘳𝘪𝘱𝘵𝘪𝘯𝘨 𝘰𝘳 𝘊++ 𝘵𝘰 𝘦𝘯𝘩𝘢𝘯𝘤𝘦 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘮𝘦𝘤𝘩𝘢𝘯𝘪𝘤𝘴. 𝘐'𝘮 𝘢𝘭𝘴𝘰 𝘵𝘳𝘺𝘪𝘯𝘨 𝘮𝘦𝘴𝘩 𝘮𝘰𝘥𝘦𝘭𝘪𝘯𝘨, 𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳 𝘳𝘪𝘨𝘨𝘪𝘯𝘨 𝘢𝘯𝘥 𝘢𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦.
+      Gameplay programming in Unreal Engine 5: Blueprint for the bulk of a game's logic, C++ where performance or structure calls for it. Comfortable with the engine's landscape and foliage tools, AI controllers and runtime mesh generation from the projects below.
     </p>
   </div>
   <br clear="right"/>
@@ -38,11 +44,10 @@
 <div>
   <h2 align="center">𝓛𝓲𝓼𝓽 𝓸𝓯 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼</h2>
 
-  | 𝙏𝙞𝙩𝙡𝙚                                                                         | 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣                                                                                                                                                                                                                                                                                                                                |                                                                                                                      |
-|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| [𝘊𝘢𝘴𝘵𝘭𝘦 𝘌𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵](https://github.com/rohan-bhautoo/Castle-UE5)             | 𝘛𝘩𝘦 𝘨𝘢𝘮𝘦 𝘴𝘩𝘰𝘸𝘤𝘢𝘴𝘦𝘴 𝘢 𝘣𝘦𝘢𝘶𝘵𝘪𝘧𝘶𝘭 𝘭𝘢𝘯𝘥𝘴𝘤𝘢𝘱𝘦 𝘪𝘯𝘤𝘭𝘶𝘥𝘪𝘯𝘨 𝘢 𝘧𝘶𝘭𝘭𝘺 𝘤𝘶𝘴𝘵𝘰𝘮𝘪𝘻𝘢𝘣𝘭𝘦 𝘤𝘢𝘴𝘵𝘭𝘦. 𝘐𝘵 𝘸𝘢𝘴 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 𝘵𝘰 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘦 𝘰𝘯 𝘵𝘩𝘦 𝘭𝘢𝘯𝘥𝘴𝘤𝘢𝘱𝘦 𝘢𝘯𝘥 𝘧𝘰𝘭𝘪𝘢𝘨𝘦 𝘮𝘰𝘥𝘦 𝘰𝘧 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦.                                                                                                                                                                             | ![image](https://github.com/rohan-bhautoo/Castle-UE5/assets/47154593/4ebc115f-a60c-409f-ba6f-c23f5ee2faf9)           |
-| [𝘍𝘪𝘳𝘴𝘵 𝘗𝘦𝘳𝘴𝘰𝘯 𝘚𝘩𝘰𝘰𝘵𝘦𝘳](https://github.com/rohan-bhautoo/First-Person-Shooter) | 𝘍𝘪𝘳𝘴𝘵 𝘗𝘦𝘳𝘴𝘰𝘯 𝘚𝘩𝘰𝘰𝘵𝘦𝘳 𝘪𝘴 𝘢 𝘴𝘪𝘮𝘱𝘭𝘦 𝘨𝘢𝘮𝘦 𝘮𝘢𝘥𝘦 𝘪𝘯 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦 𝘶𝘴𝘪𝘯𝘨 𝘤𝘰𝘯𝘵𝘦𝘯𝘵𝘴 𝘧𝘳𝘰𝘮 𝘵𝘩𝘦 𝘍𝘪𝘳𝘴𝘵 𝘗𝘦𝘳𝘴𝘰𝘯 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘱𝘢𝘤𝘬 𝘢𝘯𝘥 𝘧𝘳𝘰𝘮 𝘤𝘶𝘴𝘵𝘰𝘮 𝘤𝘰𝘯𝘵𝘦𝘯𝘵𝘴. 𝘛𝘩𝘦 𝘨𝘰𝘢𝘭 𝘪𝘴 𝘵𝘰 𝘥𝘦𝘴𝘵𝘳𝘰𝘺 𝘢𝘭𝘭 𝘵𝘢𝘳𝘨𝘦𝘵𝘴 𝘸𝘪𝘵𝘩𝘪𝘯 𝘵𝘩𝘦 𝘵𝘪𝘮𝘦 𝘭𝘪𝘮𝘪𝘵. 𝘖𝘵𝘩𝘦𝘳𝘸𝘪𝘴𝘦 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘪𝘴 𝘭𝘰𝘴𝘵.                                                                                                              | ![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/214d8dc9-4af3-4730-8b50-06cd75bd0bf9) |
-| [𝘚𝘵𝘢𝘤𝘬𝘉𝘰𝘵](https://github.com/rohan-bhautoo/StackBot)                         | 𝘚𝘵𝘢𝘤𝘬 𝘉𝘰𝘵 𝘪𝘴 𝘢 𝘴𝘮𝘢𝘭𝘭 𝘦𝘯𝘨𝘢𝘨𝘪𝘯𝘨 𝘢𝘯𝘥 𝘥𝘺𝘯𝘢𝘮𝘪𝘤 𝘨𝘢𝘮𝘦 𝘸𝘩𝘪𝘤𝘩 𝘴𝘩𝘰𝘸𝘤𝘢𝘴𝘦𝘴 𝘪𝘯𝘵𝘦𝘳𝘢𝘤𝘵𝘪𝘷𝘦 𝘤𝘰𝘮𝘱𝘰𝘯𝘦𝘯𝘵𝘴, 𝘈𝘐 𝘤𝘰𝘯𝘵𝘳𝘰𝘭𝘭𝘦𝘳, 𝘮𝘦𝘴𝘩 𝘨𝘦𝘯𝘦𝘳𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘦𝘧𝘧𝘦𝘤𝘵𝘴. 𝘛𝘩𝘦 𝘨𝘰𝘢𝘭 𝘰𝘧 𝘵𝘩𝘦 𝘨𝘢𝘮𝘦 𝘪𝘴 𝘵𝘰 𝘴𝘱𝘢𝘸𝘯 𝘰𝘳𝘣𝘴 𝘸𝘩𝘪𝘤𝘩 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘦𝘥 𝘣𝘺 𝘵𝘩𝘦 𝘈𝘐 𝘉𝘰𝘵 𝘪𝘯 𝘰𝘳𝘥𝘦𝘳 𝘵𝘰 𝘤𝘰𝘯𝘵𝘳𝘰𝘭 𝘪𝘵.                                                                                                     | ![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/1413f144-438b-473a-b597-4c57ade14239)             |
-| [𝘉𝘭𝘰𝘤𝘬Crafter](https://github.com/rohan-bhautoo/BlockCrafter)                 | 𝘉𝘭𝘰𝘤𝘬𝘊𝘳𝘢𝘧𝘵𝘦𝘳 𝘪𝘴 𝘢 𝘴𝘢𝘯𝘥𝘣𝘰𝘹 𝘢𝘥𝘷𝘦𝘯𝘵𝘶𝘳𝘦 𝘨𝘢𝘮𝘦 𝘣𝘶𝘪𝘭𝘵 𝘶𝘴𝘪𝘯𝘨 𝘜𝘯𝘳𝘦𝘢𝘭 𝘌𝘯𝘨𝘪𝘯𝘦. 𝘐𝘯𝘴𝘱𝘪𝘳𝘦𝘥 𝘣𝘺 𝘵𝘩𝘦 𝘴𝘪𝘮𝘱𝘭𝘪𝘤𝘪𝘵𝘺 𝘢𝘯𝘥 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 𝘰𝘧 𝘨𝘢𝘮𝘦𝘴 𝘭𝘪𝘬𝘦 𝘔𝘪𝘯𝘦𝘤𝘳𝘢𝘧𝘵, 𝘉𝘭𝘰𝘤𝘬𝘊𝘳𝘢𝘧𝘵𝘦𝘳 𝘰𝘧𝘧𝘦𝘳𝘴 𝘢 𝘶𝘯𝘪𝘲𝘶𝘦 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘸𝘩𝘦𝘳𝘦 𝘱𝘭𝘢𝘺𝘦𝘳𝘴 𝘤𝘢𝘯 𝘣𝘶𝘪𝘭𝘥, 𝘥𝘦𝘴𝘵𝘳𝘰𝘺, 𝘢𝘯𝘥 𝘦𝘹𝘱𝘭𝘰𝘳𝘦 𝘢𝘯 𝘰𝘱𝘦𝘯 𝘸𝘰𝘳𝘭𝘥. 𝘈𝘳𝘮𝘦𝘥 𝘸𝘪𝘵𝘩 𝘢 𝘳𝘪𝘧𝘭𝘦 𝘢𝘯𝘥 𝘢 𝘴𝘩𝘰𝘵𝘨𝘶𝘯, 𝘱𝘭𝘢𝘺𝘦𝘳𝘴 𝘮𝘶𝘴𝘵 𝘢𝘭𝘴𝘰 𝘥𝘦𝘧𝘦𝘯𝘥 𝘵𝘩𝘦𝘮𝘴𝘦𝘭𝘷𝘦𝘴 𝘢𝘨𝘢𝘪𝘯𝘴𝘵 𝘷𝘢𝘳𝘪𝘰𝘶𝘴 𝘦𝘯𝘦𝘮𝘪𝘦𝘴. | ![image](https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/19ddd76c-77f0-4159-b6d9-7d5dec1f0964)         |
-| [𝘛𝘉𝘈]()                        |                                                                                                                                                                                                                                                                                                                                            |                                                                                                                      |
+| Title | Description | |
+|---|---|---|
+| [Castle Environment](https://github.com/rohan-bhautoo/Castle-UE5) | A landscape scene with a fully customisable castle. Built to practise Unreal Engine's landscape and foliage tools. | ![image](https://github.com/rohan-bhautoo/Castle-UE5/assets/47154593/4ebc115f-a60c-409f-ba6f-c23f5ee2faf9) |
+| [First Person Shooter](https://github.com/rohan-bhautoo/First-Person-Shooter) | A small FPS built on the First Person content pack plus custom content. Destroy every target before the timer runs out or the game is lost. | ![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/214d8dc9-4af3-4730-8b50-06cd75bd0bf9) |
+| [StackBot](https://github.com/rohan-bhautoo/StackBot) | A small game showcasing interactive components, an AI controller, mesh generation and effects. Spawn orbs for the AI bot to collect in order to steer it. | ![image](https://github.com/rohan-bhautoo/StackBot/assets/47154593/1413f144-438b-473a-b597-4c57ade14239) |
+| [BlockCrafter](https://github.com/rohan-bhautoo/BlockCrafter) | A Minecraft-inspired sandbox: build, destroy and explore an open world while defending yourself against enemies with a rifle and a shotgun. | ![image](https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/19ddd76c-77f0-4159-b6d9-7d5dec1f0964) |
 </div>
